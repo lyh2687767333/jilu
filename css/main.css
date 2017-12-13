@@ -79,31 +79,31 @@ body {
     background-size: 100% 100%;
 }
 .yi-top{
-    color: goldenrod;
+    color: white;
     font-size: 10vw;
     position: absolute;
     top: 10%;
 }
 .yi-botton-center p:nth-of-type(1){
     position: absolute;
-    width: 40%;
-    left: 30%;
+    width: 53%;
+    left: 20%;
     top: 25%;
-    font-size: 10vw;
+    font-size: 17vw;
 }
 .yi-botton-center .top{
     width: 100%;
     position: absolute;
     left: 0;
     font-size: 5vw;
-    top: 40%;
+    top: 53%;
 }
 .yi-botton-center .center{
     width: 100%;
     position: absolute;
     left: 0;
-    top:45%;
-    font-size: 5vw;
+    top:60%;
+    font-size: 6vw;
 }
 .yi-botton-botton{
     width: 100%;
@@ -161,9 +161,9 @@ body {
 }
 .swiper-slide.three .top{
     position: absolute;
-    top: 3%;
+    top: 1%;
     left: 38%;
-    font-size: 5vw;
+    font-size: 8vw;
 }
 .swiper-slide.three #map{
     width: 80%;
@@ -190,7 +190,7 @@ body {
     width: 50%;
     left: 25%;
     top: 5%;
-    font-size: 5vw;
+    font-size: 9vw;
 }
 .swiper-slide.four .center ul{
     width: 20%;
@@ -224,6 +224,7 @@ body {
     position: absolute;
     width: 50%;
     top: 5%;
+    font-size: 10vw;
     left: 25%;
 }
 .swiper-slide.five .top{
@@ -236,41 +237,42 @@ body {
 .swiper-slide.five .l1{
     position: absolute;
     left: 0;
-    top: 0%;
+    top: 5%;
     width: 100%;
 }
 .swiper-slide.five .l2{
     position: absolute;
     left: 0;
-    top:10%;
+    top:15%;
     width: 100%;
 }
 .swiper-slide.five .l3{
     position: absolute;
     left: 0;
-    top: 20%;
+    top: 25%;
     width: 100%;
 }
 .swiper-slide.five .l4{
     position: absolute;
     left: 0;
-    top: 30%;
+    top: 35%;
     width:100%;
 }
 .swiper-slide.five .l5{
     position: absolute;
     left: 0;
-    top: 45%;
+    top: 50%;
     width:100%;
 }
 .swiper-slide.five input[type=text]{
     height: 30px;
+    width: 70%;
     border-radius: 11px;
     padding-left: 3%;
     outline: none;
 }
 .swiper-slide.five input[type=submit]{
-    width: 55%;
+    width: 70%;
     border-radius: 11px;
     height: 30px;
     outline:none;
